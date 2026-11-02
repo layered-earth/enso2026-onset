@@ -21,8 +21,13 @@ preferred-citation:
   type: article
   title: "Wind bursts, Kelvin waves and zonal advection: the onset of the 2026 El Niño and its drought and fire impacts in Indonesia, from reanalysis and satellite observations"
   authors:
-    - family-names: "[Family name]"
-      given-names: "[Given names]"
+  - family-names: "Shafa"
+    given-names: "Muhammad Ghifari"
+    orcid: "https://orcid.org/0009-0009-9693-7968"
+  - family-names: "Khairunisa"
+    given-names: "Farisya Isnaayu"
+  - name: "Le-GIS"
+    website: "https://le-gis.com"
   journal: "International Journal of Climatology"
   status: in-preparation
   year: 2026
