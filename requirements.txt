@@ -1,0 +1,17 @@
+# Packages used by the notebooks (Google Colab, Python 3.11+).
+# Colab already provides numpy, pandas, scipy, matplotlib, xarray and statsmodels.
+# For an exact record, replace this list with the output of `pip freeze` from your final Colab run.
+copernicusmarine>=2.0,<3
+earthengine-api>=1.0
+geemap>=0.32
+netCDF4>=1.6
+xarray>=2024.1
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+statsmodels>=0.14
+gsw>=3.6
+pymannkendall>=1.4
+adjustText>=1.0
+cdsapi>=0.7.4
