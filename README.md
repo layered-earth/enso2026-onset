@@ -2,9 +2,11 @@
 
 Analysis code for the study of the 2026 El Niño onset (July 2025 – September 2026) and its drought and fire impacts in Indonesia. The study uses open reanalysis and satellite data in Google Colab, Google Earth Engine and the Copernicus Marine Service.
 
-- **Paper:** [Author], *Wind bursts, Kelvin waves and zonal advection: the onset of the 2026 El Niño and its drought and fire impacts in Indonesia, from reanalysis and satellite observations*. In preparation for the *International Journal of Climatology*.
+- **Authors:** Muhammad Ghifari Shafa (ORCID [0009-0009-9693-7968](https://orcid.org/0009-0009-9693-7968)) and Farisya Isnaayu Khairunisa (ORCID [0009-0001-8107-1630](https://orcid.org/0009-0001-8107-1630)), Le-GIS, Jakarta, Indonesia
+- **Paper:** Shafa, M.G. and Khairunisa, F.I., *Wind bursts, Kelvin waves and zonal advection: the onset of the 2026 El Niño and its drought and fire impacts in Indonesia, from reanalysis and satellite observations*. In preparation for the *International Journal of Climatology*.
 - **Interactive summary:** https://le-gis.com/project/elnino/
-- **Archived version:** Zenodo DOI [to be added after the first release]
+- **Code:** https://github.com/layered-earth/enso2026-onset
+- **Archived version:** Zenodo DOI [added after the first release]
 
 ## Main results
 
@@ -90,4 +92,4 @@ Code: MIT License (see `LICENSE`). The data remain under their providers' licenc
 
 ## Acknowledgement
 
-An AI assistant (Claude, Anthropic) helped write and test the analysis code. The author checked all code and results.
+An AI assistant (Claude, Anthropic) helped write and test the analysis code. The authors checked all code and results.

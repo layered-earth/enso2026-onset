@@ -2,17 +2,21 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below, together with the paper."
 title: "The onset of the 2026 El Niño: analysis notebooks"
 version: 1.0.0
-date-released: 2026-10-25
+date-released: 2026-11-05
 license: MIT
-repository-code: "https://github.com/[username]/enso2026-onset"
+repository-code: "https://github.com/layered-earth/enso2026-onset"
 url: "https://le-gis.com/project/elnino/"
 authors:
   - family-names: "Shafa"
     given-names: "Muhammad Ghifari"
     orcid: "https://orcid.org/0009-0009-9693-7968"
+    affiliation: "Le-GIS, Jakarta, Indonesia"
   - family-names: "Khairunisa"
     given-names: "Farisya Isnaayu"
     orcid: "https://orcid.org/0009-0001-8107-1630"
+    affiliation: "Le-GIS, Jakarta, Indonesia"
+  - name: "Le-GIS"
+    website: "https://le-gis.com"
 keywords:
   - ENSO
   - El Niño
@@ -24,14 +28,12 @@ preferred-citation:
   type: article
   title: "Wind bursts, Kelvin waves and zonal advection: the onset of the 2026 El Niño and its drought and fire impacts in Indonesia, from reanalysis and satellite observations"
   authors:
-  - family-names: "Shafa"
-    given-names: "Muhammad Ghifari"
-    orcid: "https://orcid.org/0009-0009-9693-7968"
-  - family-names: "Khairunisa"
-    given-names: "Farisya Isnaayu"
-    orcid: "https://orcid.org/0009-0001-8107-1630"
-  - name: "Le-GIS"
-    website: "https://le-gis.com"
+    - family-names: "Shafa"
+      given-names: "Muhammad Ghifari"
+      orcid: "https://orcid.org/0009-0009-9693-7968"
+    - family-names: "Khairunisa"
+      given-names: "Farisya Isnaayu"
+      orcid: "https://orcid.org/0009-0001-8107-1630"
   journal: "International Journal of Climatology"
   status: in-preparation
   year: 2026
