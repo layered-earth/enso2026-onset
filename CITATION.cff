@@ -7,9 +7,12 @@ license: MIT
 repository-code: "https://github.com/[username]/enso2026-onset"
 url: "https://le-gis.com/project/elnino/"
 authors:
-  - family-names: "[Family name]"
-    given-names: "[Given names]"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Shafa"
+    given-names: "Muhammad Ghifari"
+    orcid: "https://orcid.org/0009-0009-9693-7968"
+  - family-names: "Khairunisa"
+    given-names: "Farisya Isnaayu"
+    orcid: "https://orcid.org/0009-0001-8107-1630"
 keywords:
   - ENSO
   - El Niño
@@ -26,6 +29,7 @@ preferred-citation:
     orcid: "https://orcid.org/0009-0009-9693-7968"
   - family-names: "Khairunisa"
     given-names: "Farisya Isnaayu"
+    orcid: "https://orcid.org/0009-0001-8107-1630"
   - name: "Le-GIS"
     website: "https://le-gis.com"
   journal: "International Journal of Climatology"
