@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below, together with the paper."
 title: "The onset of the 2026 El Niño: analysis notebooks"
 version: 1.0.0
+doi: 10.5281/zenodo.23981889
 date-released: 2026-11-05
 license: MIT
 repository-code: "https://github.com/layered-earth/enso2026-onset"

@@ -6,7 +6,7 @@ Analysis code for the study of the 2026 El Niño onset (July 2025 – September 
 - **Paper:** Shafa, M.G. and Khairunisa, F.I., *Wind bursts, Kelvin waves and zonal advection: the onset of the 2026 El Niño and its drought and fire impacts in Indonesia, from reanalysis and satellite observations*. In preparation for the *International Journal of Climatology*.
 - **Interactive summary:** https://le-gis.com/project/elnino/
 - **Code:** https://github.com/layered-earth/enso2026-onset
-- **Archived version:** Zenodo DOI [added after the first release]
+- **Archived version:** [10.5281/zenodo.23981889](https://doi.org/10.5281/zenodo.23981889) (v1.0.0)
 
 ## Main results
 
